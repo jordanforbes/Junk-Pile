@@ -8,3 +8,7 @@ from .models import Post
 class HomePageView(ListView):
     model = Post
     template_name = 'home.html'
+
+# class PostPageView(ListView):
+#     model = Post
+#     template_name = 'posts.html'
