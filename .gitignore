@@ -1,3 +1,5 @@
 .dist
 .venv
 .commands.txt
+.notes
+/apps/frontend/node_modules/
